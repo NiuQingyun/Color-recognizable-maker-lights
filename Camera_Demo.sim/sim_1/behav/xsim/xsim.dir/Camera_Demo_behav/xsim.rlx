@@ -1,0 +1,12 @@
+
+{ 
+    crc :  7194477528006840225  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 231b9d1d2f9e45ea9516f3e116887559 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot Camera_Demo_behav xil_defaultlib.Camera_Demo xil_defaultlib.glbl" , 
+    buildDate : "Dec  6 2018" , 
+    buildTime : "23:39:36" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/Camera_Demo_behav/xsimk\"   \"xsim.dir/Camera_Demo_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/Camera_Demo_behav/obj/xsim_1.lnx64.o\" \"xsim.dir/Camera_Demo_behav/obj/xsim_2.lnx64.o\" \"xsim.dir/Camera_Demo_behav/obj/xsim_3.lnx64.o\" \"xsim.dir/Camera_Demo_behav/obj/xsim_4.lnx64.o\" -L\"/opt/Xilinx/Vivado/2018.3/lib/lnx64.o\" -lrdi_simulator_kernel  -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
